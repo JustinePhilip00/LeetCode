@@ -13,18 +13,7 @@
  *     }
  * }
  */
-// class Solution {
-//     List<Integer> list = new ArrayList<>();
-//     int ksmallest=0;
-//     public int kthSmallest(TreeNode root, int k) {
-//        findkSmallest(root, k);
-//         return ksmallest;
-//         }
-//     private void findksmallest(TreeNode root, int k)
-//     {
-        
-//     }
-// }
+
 public class Solution {
     private int count = 0;
     private int result = -1;
@@ -41,17 +30,12 @@ public class Solution {
             return;
         }
         
-        // Traverse left subtree
         inOrderTraversal(node.left, k);
-        
-        // Visit current node
         count++;
         if (count == k) {
             result = node.val;
             return;
         }
-        
-        // Traverse right subtree
         inOrderTraversal(node.right, k);
     }
 }
