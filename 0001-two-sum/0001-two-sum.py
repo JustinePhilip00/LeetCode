@@ -9,7 +9,7 @@ class Solution:
         #             result.append(i);
         #             result.append(j);
         
-        
+        #Runtime O(n)
         for i, num in enumerate(nums):
             if target-num in hashmap:
                 return [hashmap[target-num],i];
