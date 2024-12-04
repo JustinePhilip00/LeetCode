@@ -2,7 +2,7 @@ class Solution:
     def countTexts(self, pressedKeys: str) -> int:
         mod = 10**9 + 7
         dp = [0] * (len(pressedKeys) + 1)
-        dp[len(pressedKeys)] = 1  # Base case: 1 way to decode empty
+        dp[len(pressedKeys)] = 1 
         
         max_press = {
             '2': 3, '3': 3, '4': 3, '5': 3, '6': 3, '8': 3,
