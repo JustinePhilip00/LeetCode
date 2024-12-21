@@ -6,14 +6,14 @@
 #         self.right = None
 
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        current = root;
-        while current:
-            if p.val>current.val and q.val>current.val:
-                current = current.right;
-            elif p.val<current.val and q.val<current.val:
-                current= current.left;
+    def lowestCommonAncestor(self, root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
+        curr = root;
+        while curr:   
+            if p.val> curr.val and q.val>curr.val:
+                curr = curr.right;
+            elif p.val<curr.val and q.val<curr.val:
+                curr=curr.left;
             else:
-                return current;
+                return curr;
         
         
