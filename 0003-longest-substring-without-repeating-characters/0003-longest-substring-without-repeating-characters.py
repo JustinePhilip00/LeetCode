@@ -14,15 +14,17 @@ class Solution:
 #                     i=i+1;
 #         print(outputset);            
 #         return maxLength;
-        myset= set();
-        output =0;
-        l=0; r=0;
-        for r in range(len(s)):
-            while s[r] in myset:
-                myset.remove(s[l]);
+        res = set();
+        val = 0 ;
+        l=r=0;
+        for r in range(0, len(s)):
+            while s[r] in res:
+                res.remove(s[l]);
                 l=l+1;
-            myset.add(s[r]);
-            print(myset);
-            output = max(output,r-l+1);
-        return output;
+            res.add(s[r]);
+            val = max(val, r-l+1);
+        return val;
+
+
+
         
