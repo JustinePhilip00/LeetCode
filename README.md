@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustinePhilip00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/JustinePhilip00/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -26,9 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustinePhilip00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/JustinePhilip00/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustinePhilip00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/JustinePhilip00/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
