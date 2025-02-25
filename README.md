@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JustinePhilip00/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
