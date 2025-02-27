@@ -4,8 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def maxDepth(self, root: Optional[TreeNode]) -> int:
+# class Solution:
+#     def maxDepth(self, root: Optional[TreeNode]) -> int:
 #     recursive method
 #         if root==None:
 #             return 0;
@@ -30,18 +30,38 @@ class Solution:
             # return level;
 
 #             Iterative DFS method (pre-order)
-                stack = [[root,1]]
-                res=0;
+#                 stack = [[root,1]]
+#                 res=0;
                 
-                while stack:
-                    node, depth = stack.pop();
+#                 while stack:
+#                     node, depth = stack.pop();
                     
-                    if node:
-                        res= max(res,depth);
-                        stack.append([node.left,depth+1]);
-                        stack.append([node.right,depth+1]);
-                return res;
+#                     if node:
+#                         res= max(res,depth);
+#                         stack.append([node.left,depth+1]);
+#                         stack.append([node.right,depth+1]);
+#                 return res;
     
-                    
+#             depth =0;
+#             def dfs(root):
+#                 nonlocal depth;
+#                 if not root:
+#                     return 0;
+#                 leftchild = dfs(root.left);
+#                 rightchild =dfs(root.right);
+#                 return 1+max(leftchild,rightchild);
+#             return dfs(root);
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        # if not root:
+        #     return 0;
+        # leftnode = 1+self.maxDepth(root.left);
+        # rightnode = 1+self.maxDepth(root.right);
+        # return max(leftnode,rightnode);
+        if not root: 
+            return 0;
+        return 1+max(self.maxDepth(root.left),self.maxDepth(root.right));
+
+        
             
         
