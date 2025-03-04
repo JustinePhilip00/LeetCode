@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Array
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
