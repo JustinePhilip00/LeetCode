@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
