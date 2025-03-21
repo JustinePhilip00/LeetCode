@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JustinePhilip00/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JustinePhilip00/LeetCode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/JustinePhilip00/LeetCode/tree/master/0198-house-robber) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/JustinePhilip00/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0213-house-robber-ii) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinePhilip00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
