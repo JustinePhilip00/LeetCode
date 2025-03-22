@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JustinePhilip00/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JustinePhilip00/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JustinePhilip00/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
@@ -144,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JustinePhilip00/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
