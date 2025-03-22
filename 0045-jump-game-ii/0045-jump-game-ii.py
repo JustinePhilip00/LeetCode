@@ -3,8 +3,8 @@ class Solution:
         res =0;
         l=0;
         r=0;
-        farthestJump=0;
         while r < len(nums)-1:
+            farthestJump=0;
             for i in range(l, r+1):
                 farthestJump= max(farthestJump, nums[i]+i);
             l=r+1;
