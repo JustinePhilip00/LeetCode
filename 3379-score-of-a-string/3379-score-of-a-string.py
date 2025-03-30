@@ -27,11 +27,13 @@ class Solution:
                 "y":121,
                 "z":122,
                 }
-        total = 0;
+        # total = 0;
+        currscore =0;
         for i in range(len(s)):
             if i+1 < len(s):
-                currscore=abs(ascii[s[i]] - ascii[s[i+1]]);
-                total = total +currscore;
-        return total;
+                currscore=currscore+abs(ascii[s[i]] - ascii[s[i+1]]);
+                # total = total +currscore;
+        # return total;
+        return currscore;
 
         
