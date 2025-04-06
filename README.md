@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustinePhilip00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JustinePhilip00/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/JustinePhilip00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/JustinePhilip00/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/JustinePhilip00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0392-is-subsequence) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JustinePhilip00/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JustinePhilip00/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
