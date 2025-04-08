@@ -1,6 +1,7 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res=[];
+
         permutation=[];
         def dfs(used):
             if len(permutation)==len(nums):
@@ -15,4 +16,3 @@ class Solution:
                     used[i]=False;
         dfs([False]*len(nums));
         return res;
-        
