@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/JustinePhilip00/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/JustinePhilip00/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
