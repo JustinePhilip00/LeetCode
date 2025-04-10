@@ -1,10 +1,9 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         res=[];
-        partition=[];
-        
+        partition =[];
         def dfs(i):
-            if i>=len(s):
+            if i >= len(s):
                 res.append(partition.copy());
                 return;
             for j in range(i,len(s)):
@@ -21,6 +20,4 @@ class Solution:
             l=l+1;
             r=r-1;
         return True;
-                    
-                
-        
+
