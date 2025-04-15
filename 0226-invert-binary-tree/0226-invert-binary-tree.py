@@ -14,11 +14,14 @@ class Solution:
         # self.invertTree(root.left);
         # self.invertTree(root.right);
         # return root;
-        if not root: 
-            return None
+        if not root:
+            return None;
+        if root.left or root.right:
+            temp = root.left;
+            root.left = root.right;
+            root.right = temp;
+        self.invertTree(root.left);
+        self.invertTree(root.right);
 
-        root.left, root.right = root.right, root.left
-        self.invertTree(root.left)
-        self.invertTree(root.right)
-        return root
+        return root;
         
