@@ -1,7 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         # result=[]
-        hashmap={};
+        # hashmap={};
          # O(n^2) runtime
         # for i in range(0,len(nums)-1):
         #     for j in range(i+1,len(nums)):
@@ -10,12 +10,14 @@ class Solution:
         #             result.append(j);
         
         #Runtime O(n)
+        mymap = {};
         for i, num in enumerate(nums):
-            if target-num in hashmap:
-                return [hashmap[target-num],i];
-            
-            hashmap[num]=i;
-            
+            if target-num not in mymap:
+                mymap[num] = i;
+            else:
+                return [mymap[target-num],i];
+         
+
     
         
         # return result;
