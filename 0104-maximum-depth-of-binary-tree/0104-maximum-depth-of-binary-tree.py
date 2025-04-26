@@ -58,9 +58,9 @@ class Solution:
         # leftnode = 1+self.maxDepth(root.left);
         # rightnode = 1+self.maxDepth(root.right);
         # return max(leftnode,rightnode);
-        if not root: 
+        if not root:
             return 0;
-        return 1+max(self.maxDepth(root.left),self.maxDepth(root.right));
+        return max(1+ self.maxDepth(root.left), 1+self.maxDepth(root.right));
 
         
             
