@@ -14,16 +14,19 @@ class Solution:
 #                     i=i+1;
 #         print(outputset);            
 #         return maxLength;
-        res=set();
-        count =0;
-        l=0;r=0;
-        for r in range(len(s)):
-            while s[r] in res:
-                res.remove(s[l]);
+        myset = set();
+        l=0;
+        r=0;
+        maxlen = 0;
+        while r < len(s):
+            if s[r] not in myset:
+                myset.add(s[r]);
+                maxlen=max(maxlen, r-l+1)
+                r=r+1;
+            else:
+                myset.remove(s[l]);
                 l=l+1;
-            res.add(s[r]);
-            count = max(count, r-l+1);
-        return count; 
+        return maxlen;
 
 
 
