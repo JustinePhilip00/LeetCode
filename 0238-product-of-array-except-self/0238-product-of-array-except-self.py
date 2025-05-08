@@ -14,25 +14,25 @@ class Solution:
         return res;
 
         # division method
-        product = 1;
-        result =[];
-        zeroCount = 0;
-        for num in nums:
-            if num != 0:
-                product = product * num;
-            else:
-                product = product *1;
-                zeroCount = zeroCount + 1;
-        if zeroCount > 1:
-            return [0] * len(nums)
-        print(product);
-        for num in nums:
-            if num == 0:
-                result.append(product);
-            elif zeroCount == 0:
-                result.append(int(product/num));
-            else:
-                result.append(0);
+        # product = 1;
+        # result =[];
+        # zeroCount = 0;
+        # for num in nums:
+        #     if num != 0:
+        #         product = product * num;
+        #     else:
+        #         product = product *1;
+        #         zeroCount = zeroCount + 1;
+        # if zeroCount > 1:
+        #     return [0] * len(nums)
+        # print(product);
+        # for num in nums:
+        #     if num == 0:
+        #         result.append(product);
+        #     elif zeroCount == 0:
+        #         result.append(int(product/num));
+        #     else:
+        #         result.append(0);
             
-        return result;
+        # return result;
         
