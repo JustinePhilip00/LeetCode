@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/JustinePhilip00/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/JustinePhilip00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/JustinePhilip00/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0290-word-pattern](https://github.com/JustinePhilip00/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/JustinePhilip00/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustinePhilip00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JustinePhilip00/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0290-word-pattern](https://github.com/JustinePhilip00/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/JustinePhilip00/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
