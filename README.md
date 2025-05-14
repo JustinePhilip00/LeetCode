@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JustinePhilip00/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/JustinePhilip00/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/JustinePhilip00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/JustinePhilip00/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
