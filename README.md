@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JustinePhilip00/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JustinePhilip00/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustinePhilip00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JustinePhilip00/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JustinePhilip00/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/JustinePhilip00/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JustinePhilip00/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JustinePhilip00/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinePhilip00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JustinePhilip00/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
