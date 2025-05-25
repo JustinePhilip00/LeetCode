@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JustinePhilip00/LeetCode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JustinePhilip00/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
