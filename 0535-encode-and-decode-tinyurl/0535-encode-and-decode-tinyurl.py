@@ -1,7 +1,8 @@
 class Codec:
-    encodeMap={};
-    decodeMap={};
-    base = "http://tinyurl.com/"
+    def __init__(self):
+        self.encodeMap={};
+        self.decodeMap={};
+        self.base = "http://tinyurl.com/"
     def encode(self, longUrl: str) -> str:
         """Encodes a URL to a shortened URL.
         """
