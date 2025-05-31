@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JustinePhilip00/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
