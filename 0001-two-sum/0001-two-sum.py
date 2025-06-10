@@ -11,11 +11,12 @@ class Solution:
         
         #Runtime O(n)
         mymap = {};
-        for i, num in enumerate(nums):
-            if target-num not in mymap:
+        for i,num in enumerate(nums):
+            if target - num not in mymap:
                 mymap[num] = i;
             else:
                 return [mymap[target-num],i];
+                 
          
 
     
