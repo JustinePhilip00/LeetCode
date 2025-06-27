@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JustinePhilip00/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JustinePhilip00/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/JustinePhilip00/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JustinePhilip00/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/JustinePhilip00/LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinePhilip00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
