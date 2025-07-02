@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/JustinePhilip00/LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Backtracking
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/JustinePhilip00/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JustinePhilip00/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1708-design-parking-system](https://github.com/JustinePhilip00/LeetCode/tree/master/1708-design-parking-system) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1708-design-parking-system](https://github.com/JustinePhilip00/LeetCode/tree/master/1708-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
