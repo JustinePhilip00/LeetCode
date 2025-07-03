@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/JustinePhilip00/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JustinePhilip00/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/JustinePhilip00/LeetCode/tree/master/0134-gas-station) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Design
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JustinePhilip00/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/JustinePhilip00/LeetCode/tree/master/0724-find-pivot-index) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
