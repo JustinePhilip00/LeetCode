@@ -16,20 +16,31 @@ class Solution:
         #         if len(res) == k:
         #             print(res);
         #             return res;
-        count = {};
-        for num in nums:
-            count[num] = 1+count.get(num, 0);
-        heap = [];
-        for num, freq in count.items():
-            heapq.heappush(heap, (freq,num));
+        # count = {};
+        # for num in nums:
+        #     count[num] = 1+count.get(num, 0);
+        # heap = [];
+        # for num, freq in count.items():
+        #     heapq.heappush(heap, (freq,num));
+        # res =[];
+        # while len(heap) > k:
+        #     heapq.heappop(heap);
+        # res= [];
+        # print(heap);
+        # for i in range(k):
+        #     res.append(heapq.heappop(heap)[1])
+        # return res;
+        mymap ={};
         res =[];
-        while len(heap) > k:
-            heapq.heappop(heap);
-        res= [];
-        print(heap);
-        for i in range(k):
-            res.append(heapq.heappop(heap)[1])
+        for num in nums:
+            mymap[num] = 1+mymap.get(num, 0);
+        while len(res) < k:
+            top = max(mymap, key = mymap.get);
+            # print(top)
+            res.append(top);
+            mymap.pop(top);
         return res;
+
 
             
             
