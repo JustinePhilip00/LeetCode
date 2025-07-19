@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1127-last-stone-weight](https://github.com/JustinePhilip00/LeetCode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JustinePhilip00/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JustinePhilip00/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JustinePhilip00/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/JustinePhilip00/LeetCode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
