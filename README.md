@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JustinePhilip00/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/JustinePhilip00/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JustinePhilip00/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/JustinePhilip00/LeetCode/tree/master/1127-last-stone-weight) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JustinePhilip00/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/JustinePhilip00/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JustinePhilip00/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
