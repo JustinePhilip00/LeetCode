@@ -12,7 +12,7 @@ class Solution:
             l=l+1;
             r=r-1;
         return True
-        print(s)
+
 
 
         
