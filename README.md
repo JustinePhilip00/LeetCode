@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/JustinePhilip00/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/JustinePhilip00/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/JustinePhilip00/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0724-find-pivot-index](https://github.com/JustinePhilip00/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JustinePhilip00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/JustinePhilip00/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JustinePhilip00/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/JustinePhilip00/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
