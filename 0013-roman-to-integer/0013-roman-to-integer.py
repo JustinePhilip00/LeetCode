@@ -10,13 +10,12 @@ class Solution:
         'M': 1000
         }
 
-        total =0;
-        prevVal =0;
-        for char in reversed(s):
-            currVal = mymap[char];
-            if currVal < prevVal:
-                total = total - currVal;
+        total = 0;
+        for i in range(len(s)):
+            if i+1 <len(s) and mymap[s[i]]<mymap[s[i+1]]:
+                total = total - mymap[s[i]]
             else:
-                total = total + currVal;
-            prevVal = currVal;
-        return total; 
+                total = total + mymap[s[i]];
+        return total;
+
+            
