@@ -10,18 +10,16 @@ class Solution:
         #             result.append(j);
         
         #Runtime O(n)
-        mymap={};
-        for i, num in enumerate(nums):
-            if target - num not in mymap:
+        result = [];
+        mymap = {};
+        for i,num in enumerate(nums):
+            if (target - num) not in mymap:
                 mymap[num] = i;
             else:
-                return [i, mymap[target - num]];
+                return [mymap[target-num],i];
+            
 
 
-    
-        
-        # return result;
-                    
                     
             
                 
