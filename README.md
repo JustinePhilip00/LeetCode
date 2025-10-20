@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/JustinePhilip00/LeetCode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JustinePhilip00/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1306-minimum-absolute-difference](https://github.com/JustinePhilip00/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JustinePhilip00/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JustinePhilip00/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JustinePhilip00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1306-minimum-absolute-difference](https://github.com/JustinePhilip00/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 ## Bucket Sort
 |  |
