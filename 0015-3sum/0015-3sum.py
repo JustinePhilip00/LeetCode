@@ -5,27 +5,25 @@ class Solution:
         nums.sort();
         res=[];
         for i in range(len(nums)-2):
-            if i>0 and nums[i]==nums[i-1]:
+            if i>0 and nums[i] == nums[i-1]:
                 continue;
-            l=i+1;
-            r=len(nums)-1;
-            while l<r:
-                total = nums[i]+nums[l]+nums[r];
-                if total==0:
-                    res.append([nums[i],nums[l],nums[r]]);
-                    while l<r and nums[l]==nums[l+1]:
-                        l=l+1;
-                    while l<r and nums[r]==nums[r-1]:
-                        r=r-1;
-                    l=l+1;
-                    r=r-1;
-                elif total<0:
-                    l=l+1;
+            j=i+1;
+            k=len(nums)-1;
+            while j<k:
+                total = nums[i]+nums[j]+nums[k];
+                if total ==0:
+                    res.append([nums[i],nums[j],nums[k]]);
+                    j=j+1;
+                    k=k-1;
+                    while j<k and nums[j]==nums[j-1]:
+                        j=j+1;
+                    while j<k and nums[k] == nums[k+1]:
+                        k=k-1;
+                elif total < 0:
+                    j=j+1;
                 else:
-                    r=r-1;
+                    k=k-1;
         return res;
-
-            
             
             
         
