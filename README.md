@@ -155,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/JustinePhilip00/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/JustinePhilip00/LeetCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/JustinePhilip00/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/JustinePhilip00/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JustinePhilip00/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/JustinePhilip00/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JustinePhilip00/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/JustinePhilip00/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JustinePhilip00/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/JustinePhilip00/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
