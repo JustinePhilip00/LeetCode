@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/JustinePhilip00/LeetCode/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JustinePhilip00/LeetCode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JustinePhilip00/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/JustinePhilip00/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JustinePhilip00/LeetCode/tree/master/0724-find-pivot-index) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Monotonic Stack
 |  |
