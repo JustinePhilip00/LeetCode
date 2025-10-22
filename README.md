@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1894-merge-strings-alternately](https://github.com/JustinePhilip00/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/JustinePhilip00/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/JustinePhilip00/LeetCode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
