@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JustinePhilip00/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/JustinePhilip00/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1894-merge-strings-alternately](https://github.com/JustinePhilip00/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/JustinePhilip00/LeetCode/tree/master/1972-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JustinePhilip00/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1972-rotating-the-box](https://github.com/JustinePhilip00/LeetCode/tree/master/1972-rotating-the-box) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JustinePhilip00/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1972-rotating-the-box](https://github.com/JustinePhilip00/LeetCode/tree/master/1972-rotating-the-box) |
 ## Enumeration
 |  |
 | ------- |
