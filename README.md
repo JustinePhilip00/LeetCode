@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/JustinePhilip00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/JustinePhilip00/LeetCode/tree/master/1972-rotating-the-box) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/JustinePhilip00/LeetCode/tree/master/2169-simple-bank-system) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JustinePhilip00/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
+| [2169-simple-bank-system](https://github.com/JustinePhilip00/LeetCode/tree/master/2169-simple-bank-system) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1708-design-parking-system](https://github.com/JustinePhilip00/LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/JustinePhilip00/LeetCode/tree/master/2169-simple-bank-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/JustinePhilip00/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JustinePhilip00/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/JustinePhilip00/LeetCode/tree/master/1708-design-parking-system) |
+| [2169-simple-bank-system](https://github.com/JustinePhilip00/LeetCode/tree/master/2169-simple-bank-system) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
