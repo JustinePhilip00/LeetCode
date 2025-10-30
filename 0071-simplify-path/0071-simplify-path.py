@@ -1,16 +1,19 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        cur = "";
-        mystack=[];
+        mystack = [];
+        curr = "";
         for ch in path + "/":
-            if ch=="/":
-                if cur=="..":
+            if ch =="/":
+                if curr == "..":
                     if mystack: mystack.pop();
-                elif cur!="" and cur!=".":
-                    mystack.append(cur);
-                cur= "";
+                elif curr!="" and curr!=".":
+                    mystack.append(curr);
+                curr= ""
+            
             else:
-                cur= cur+ch;
+                curr= curr+ch;
+
         return "/"+"/".join(mystack);
+
 
              
