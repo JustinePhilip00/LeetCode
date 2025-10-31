@@ -7,15 +7,17 @@ class Solution:
         r = len(matrix)-1;
         while l<r:
             for i in range(r-l):
-                top=l;
+                top = l;
                 bottom = r;
 
-                topLeft = matrix[top][l+i];
-                matrix[top][l+i] = matrix[bottom-i][l];
-                matrix[bottom-i][l] = matrix[bottom][r-i]
+                topleft = matrix[top][l+i];
+                matrix[top][l+i]= matrix[bottom-i][l];
+                matrix[bottom-i][l] = matrix[bottom][r-i];
                 matrix[bottom][r-i] = matrix[top+i][r];
-                matrix[top+i][r] = topLeft;
+                matrix[top+i][r] = topleft;
             l=l+1;
             r=r-1;
+    
 
+    
         
