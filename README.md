@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/JustinePhilip00/LeetCode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
