@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JustinePhilip00/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JustinePhilip00/LeetCode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/JustinePhilip00/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JustinePhilip00/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinePhilip00/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JustinePhilip00/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JustinePhilip00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/JustinePhilip00/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/JustinePhilip00/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JustinePhilip00/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/JustinePhilip00/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/JustinePhilip00/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/JustinePhilip00/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
