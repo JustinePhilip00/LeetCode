@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/JustinePhilip00/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/JustinePhilip00/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/JustinePhilip00/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JustinePhilip00/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JustinePhilip00/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0054-spiral-matrix) |
 | [1708-design-parking-system](https://github.com/JustinePhilip00/LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/JustinePhilip00/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/JustinePhilip00/LeetCode/tree/master/2169-simple-bank-system) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JustinePhilip00/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/JustinePhilip00/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/JustinePhilip00/LeetCode/tree/master/1972-rotating-the-box) |
