@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/JustinePhilip00/LeetCode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
+| [2889-number-of-black-blocks](https://github.com/JustinePhilip00/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/JustinePhilip00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0965-unique-email-addresses](https://github.com/JustinePhilip00/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2169-simple-bank-system](https://github.com/JustinePhilip00/LeetCode/tree/master/2169-simple-bank-system) |
+| [2889-number-of-black-blocks](https://github.com/JustinePhilip00/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3827-implement-router](https://github.com/JustinePhilip00/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/JustinePhilip00/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [2889-number-of-black-blocks](https://github.com/JustinePhilip00/LeetCode/tree/master/2889-number-of-black-blocks) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Trie
 |  |
