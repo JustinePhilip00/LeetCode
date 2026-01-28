@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/JustinePhilip00/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1894-merge-strings-alternately](https://github.com/JustinePhilip00/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/JustinePhilip00/LeetCode/tree/master/1972-rotating-the-box) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/JustinePhilip00/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/JustinePhilip00/LeetCode/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JustinePhilip00/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/JustinePhilip00/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JustinePhilip00/LeetCode/tree/master/3379-score-of-a-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/JustinePhilip00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JustinePhilip00/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/JustinePhilip00/LeetCode/tree/master/0134-gas-station) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/JustinePhilip00/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/JustinePhilip00/LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Design
 |  |
